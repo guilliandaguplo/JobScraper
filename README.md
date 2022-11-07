@@ -1,10 +1,10 @@
 # JobScraper
 
-A python webscraping project using Selenium to gather data across different job aggregators.<br> Google Sheets API is then used to record the collected job data. <br> CRON is then used to schedule program execution once a week ensuring that an new sheet is created with updated job listings.
+A python webscraping project using Selenium to gather data across different job aggregators. Google Sheets API is then used to record the collected job data. CRON is then used to schedule program execution once a week ensuring that an new sheet is created with updated job listings.
 
 ## Motivations
 
-This project was developed to help the Professional and Career Development Manager of <br>the Child and Adolescent Studies Student Association at California State University, Fullerton, an organization aimed towards helping students find promising career opportunities.
+This project was developed to help the Professional and Career Development Manager of the Child and Adolescent Studies Student Association at California State University, Fullerton, an organization aimed towards helping students find promising career opportunities.
 
 ## Related Links
 
