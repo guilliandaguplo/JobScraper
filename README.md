@@ -8,6 +8,6 @@ This project was developed to help the Professional and Career Development Manag
 
 ## Related Links
 
-[Google Spreadsheet] (https://docs.google.com/spreadsheets/d/1PTdXfsNYQpqGfeGiRdc4EeVywwe_ha9DPLCMwjtRIlc/edit?usp=sharing)
+[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1PTdXfsNYQpqGfeGiRdc4EeVywwe_ha9DPLCMwjtRIlc/edit?usp=sharing)
 
 
